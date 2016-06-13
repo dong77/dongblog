@@ -1,0 +1,10 @@
+{
+ "meta":{
+ "username": "dong77",
+ "repositoryName": "dongblog",
+ "branch": "gh-pages"
+ },
+ "theme":{
+  "name":"Casper"
+ }
+}
